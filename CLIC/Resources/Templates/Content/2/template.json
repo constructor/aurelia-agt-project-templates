@@ -1,0 +1,35 @@
+﻿{
+  "templateId": 2,
+  "templateLabel": "VS2017_MVC",
+  "name": "VS2017 .NET Core MVC",
+  "description": "Visual Studio 2017 .Net Core 2.2 MVC with individual user accounts",
+  "aureliaRoot": "/{ProjectName}",
+  "templateFileTransform": [
+    {
+      "fileName": "{ProjectName}\\Startup.cs",
+      "stringReplacements": {
+        "using Site.Data;": "using {ProjectName}.Data;"
+      }
+    },
+    {
+      "fileName": "{ProjectName}\\Controllers\\AppController.cs",
+      "stringReplacements": {
+        "namespace Site.Controllers": "namespace {ProjectName}.Controllers"
+      }
+    },
+    {
+      "fileName": "{ProjectName}\\Controllers\\HomeController.cs",
+      "stringReplacements": {
+        "using Site.Models;": "using {ProjectName}.Models;",
+        "namespace Site.Controllers": "namespace {ProjectName}.Controllers"
+      }
+    },
+    {
+      "fileName": "{ProjectName}\\Controllers\\TokenController.cs",
+      "stringReplacements": {
+        "using Site.Data;": "using {ProjectName}.Data;",
+        "namespace Site.Controllers": "namespace {ProjectName}.Controllers"
+      }
+    }
+  ]
+}

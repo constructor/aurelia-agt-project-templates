@@ -1,0 +1,1986 @@
+[
+  {
+    "SourceFile": "\\content\\2\\source\\.dockerignore",
+    "DestinationFile": "\\content\\2\\destination\\.dockerignore",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site.sln",
+    "DestinationFile": "\\content\\2\\destination\\Site.sln",
+    "PatchResultType": 1,
+    "PatchList": [
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": ", \"{"
+          },
+          {
+            "operation": 0,
+            "text": "ACD7C844-862F-47F"
+          },
+          {
+            "operation": 1,
+            "text": "E7C7C87"
+          },
+          {
+            "operation": 2,
+            "text": "E-"
+          },
+          {
+            "operation": 0,
+            "text": "B"
+          },
+          {
+            "operation": 2,
+            "text": "40"
+          },
+          {
+            "operation": 0,
+            "text": "4-904BBF314006"
+          },
+          {
+            "operation": 1,
+            "text": "E5-4833-AF8E-59DA18E49090"
+          },
+          {
+            "operation": 2,
+            "text": "}\"\r\n"
+          }
+        ],
+        "start1": 242,
+        "start2": 242,
+        "length1": 44,
+        "length2": 44
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "\n\t\t{"
+          },
+          {
+            "operation": 0,
+            "text": "ACD7C844-862F-47F"
+          },
+          {
+            "operation": 1,
+            "text": "E7C7C87"
+          },
+          {
+            "operation": 2,
+            "text": "E-"
+          },
+          {
+            "operation": 0,
+            "text": "B"
+          },
+          {
+            "operation": 2,
+            "text": "40"
+          },
+          {
+            "operation": 0,
+            "text": "4-904BBF314006"
+          },
+          {
+            "operation": 1,
+            "text": "E5-4833-AF8E-59DA18E49090"
+          },
+          {
+            "operation": 2,
+            "text": "}.De"
+          }
+        ],
+        "start1": 518,
+        "start2": 518,
+        "length1": 44,
+        "length2": 44
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "\n\t\t{"
+          },
+          {
+            "operation": 0,
+            "text": "ACD7C844-862F-47F"
+          },
+          {
+            "operation": 1,
+            "text": "E7C7C87"
+          },
+          {
+            "operation": 2,
+            "text": "E-"
+          },
+          {
+            "operation": 0,
+            "text": "B"
+          },
+          {
+            "operation": 2,
+            "text": "40"
+          },
+          {
+            "operation": 0,
+            "text": "4-904BBF314006"
+          },
+          {
+            "operation": 1,
+            "text": "E5-4833-AF8E-59DA18E49090"
+          },
+          {
+            "operation": 2,
+            "text": "}.De"
+          }
+        ],
+        "start1": 600,
+        "start2": 600,
+        "length1": 44,
+        "length2": 44
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "\n\t\t{"
+          },
+          {
+            "operation": 0,
+            "text": "ACD7C844-862F-47F"
+          },
+          {
+            "operation": 1,
+            "text": "E7C7C87"
+          },
+          {
+            "operation": 2,
+            "text": "E-"
+          },
+          {
+            "operation": 0,
+            "text": "B"
+          },
+          {
+            "operation": 2,
+            "text": "40"
+          },
+          {
+            "operation": 0,
+            "text": "4-904BBF314006"
+          },
+          {
+            "operation": 1,
+            "text": "E5-4833-AF8E-59DA18E49090"
+          },
+          {
+            "operation": 2,
+            "text": "}.Re"
+          }
+        ],
+        "start1": 680,
+        "start2": 680,
+        "length1": 44,
+        "length2": 44
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "\n\t\t{"
+          },
+          {
+            "operation": 0,
+            "text": "ACD7C844-862F-47F"
+          },
+          {
+            "operation": 1,
+            "text": "E7C7C87"
+          },
+          {
+            "operation": 2,
+            "text": "E-"
+          },
+          {
+            "operation": 0,
+            "text": "B"
+          },
+          {
+            "operation": 2,
+            "text": "40"
+          },
+          {
+            "operation": 0,
+            "text": "4-904BBF314006"
+          },
+          {
+            "operation": 1,
+            "text": "E5-4833-AF8E-59DA18E49090"
+          },
+          {
+            "operation": 2,
+            "text": "}.Re"
+          }
+        ],
+        "start1": 766,
+        "start2": 766,
+        "length1": 44,
+        "length2": 44
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": " = {"
+          },
+          {
+            "operation": 0,
+            "text": "AA683690-4B18-4108-8EF6-1372D4E0300A"
+          },
+          {
+            "operation": 1,
+            "text": "8725A822-E9BC-4023-8608-501E5F13DE9D"
+          },
+          {
+            "operation": 2,
+            "text": "}\r\n\t"
+          }
+        ],
+        "start1": 1034,
+        "start2": 1034,
+        "length1": 44,
+        "length2": 44
+      }
+    ]
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\.editorconfig",
+    "DestinationFile": "\\content\\2\\destination\\Site\\.editorconfig",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\.gitignore",
+    "DestinationFile": "\\content\\2\\destination\\Site\\.gitignore",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\appsettings.Development.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\appsettings.Development.json",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\appsettings.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\appsettings.json",
+    "PatchResultType": 1,
+    "PatchList": [
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "ver="
+          },
+          {
+            "operation": 0,
+            "text": "(localdb)\\\\mssqllocaldb;Database=aspnet-Site-ACED4403-CF51-4D35-A81A-5CB26394F90C"
+          },
+          {
+            "operation": 1,
+            "text": "SOL\\\\SQLEXPRESS;Database=DemProDB"
+          },
+          {
+            "operation": 2,
+            "text": ";Tru"
+          }
+        ],
+        "start1": 58,
+        "start2": 58,
+        "length1": 89,
+        "length2": 41
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "ts\": \"*\""
+          },
+          {
+            "operation": 1,
+            "text": ",\r\n  \"Jwt\": {\r\n    \"Key\": \"veryVerySecretKeyGoesHereMaybeGUID\",\r\n    \"Issuer\": \"https://localhost\",\r\n    \"Audience\": \"https://localhost\",\r\n    \"ExpiryDays\": \"90\"\r\n  }"
+          },
+          {
+            "operation": 2,
+            "text": "\r\n}\r\n"
+          }
+        ],
+        "start1": 247,
+        "start2": 247,
+        "length1": 13,
+        "length2": 179
+      }
+    ]
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Dockerfile",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Dockerfile",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\global.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\global.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\index.ejs",
+    "DestinationFile": "\\content\\2\\destination\\Site\\index.ejs",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\instructions.txt",
+    "DestinationFile": "\\content\\2\\destination\\Site\\instructions.txt",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\package-scripts.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\package-scripts.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\package.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\package.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Program.cs",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Program.cs",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Site.csproj",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Site.csproj",
+    "PatchResultType": 1,
+    "PatchList": [
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "ite-"
+          },
+          {
+            "operation": 0,
+            "text": "ACED4403-CF51-4D35-A81A-5CB26394F90C"
+          },
+          {
+            "operation": 1,
+            "text": "66D242CA-05EF-4B34-AB3D-D1B26E9CAA03"
+          },
+          {
+            "operation": 2,
+            "text": "</Us"
+          }
+        ],
+        "start1": 141,
+        "start2": 141,
+        "length1": 44,
+        "length2": 44
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "getOS>\r\n"
+          },
+          {
+            "operation": 1,
+            "text": "    <TypeScriptToolsVersion>3.1</TypeScriptToolsVersion>\r\n"
+          },
+          {
+            "operation": 2,
+            "text": "  </Prop"
+          }
+        ],
+        "start1": 313,
+        "start2": 313,
+        "length1": 16,
+        "length2": 74
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "=\"1."
+          },
+          {
+            "operation": 0,
+            "text": "0.2105168"
+          },
+          {
+            "operation": 1,
+            "text": "4.2\" />\r\n    <PackageReference Include=\"Microsoft.VisualStudio.Web.CodeGeneration.Design\" Version=\"2.2.1"
+          },
+          {
+            "operation": 2,
+            "text": "\" />"
+          }
+        ],
+        "start1": 678,
+        "start2": 678,
+        "length1": 17,
+        "length2": 112
+      }
+    ]
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Startup.cs",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Startup.cs",
+    "PatchResultType": 1,
+    "PatchList": [
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "ing "
+          },
+          {
+            "operation": 0,
+            "text": "System;\r\nusing System.Collections.Generic;\r\nusing System.Linq;\r\nusing System.Threading.Tasks;\r\nusing Microsoft.AspNetCore.Builder;\r\nusing Microsoft.AspNetCore.Identity;\r\nusing Microsoft.AspNetCore.Identity.UI"
+          },
+          {
+            "operation": 1,
+            "text": "Microsoft.AspNetCore.Authentication.Cookies;\r\nusing Microsoft.AspNetCore.Authentication.JwtBearer;\r\nusing Microsoft.AspNetCore.Builder"
+          },
+          {
+            "operation": 2,
+            "text": ";\r\nu"
+          }
+        ],
+        "start1": 2,
+        "start2": 2,
+        "length1": 216,
+        "length2": 142
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "ore."
+          },
+          {
+            "operation": 0,
+            "text": "HttpsPolicy"
+          },
+          {
+            "operation": 1,
+            "text": "Identity;\r\nusing Microsoft.AspNetCore.Identity.UI"
+          },
+          {
+            "operation": 2,
+            "text": ";\r\nu"
+          }
+        ],
+        "start1": 237,
+        "start2": 237,
+        "length1": 19,
+        "length2": 57
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "e;\r\n"
+          },
+          {
+            "operation": 0,
+            "text": "using Site.Data;\r\n"
+          },
+          {
+            "operation": 2,
+            "text": "usin"
+          }
+        ],
+        "start1": 360,
+        "start2": 360,
+        "length1": 26,
+        "length2": 8
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "ection;\r"
+          },
+          {
+            "operation": 1,
+            "text": "\nusing Microsoft.IdentityModel.Tokens;\r\nusing Site.Data;\r\nusing System.Text;\r"
+          },
+          {
+            "operation": 2,
+            "text": "\n\r\nnames"
+          }
+        ],
+        "start1": 447,
+        "start2": 447,
+        "length1": 16,
+        "length2": 93
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "ite\r\n{\r\n"
+          },
+          {
+            "operation": 0,
+            "text": "  "
+          },
+          {
+            "operation": 2,
+            "text": "  public"
+          }
+        ],
+        "start1": 546,
+        "start2": 546,
+        "length1": 18,
+        "length2": 16
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "ion\")));"
+          },
+          {
+            "operation": 0,
+            "text": "\r"
+          },
+          {
+            "operation": 1,
+            "text": "\n"
+          },
+          {
+            "operation": 2,
+            "text": "\n       "
+          }
+        ],
+        "start1": 1470,
+        "start2": 1470,
+        "length1": 17,
+        "length2": 17
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "yUser>()"
+          },
+          {
+            "operation": 0,
+            "text": "\r"
+          },
+          {
+            "operation": 2,
+            "text": "\n       "
+          }
+        ],
+        "start1": 1527,
+        "start2": 1527,
+        "length1": 17,
+        "length2": 16
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "tstrap4)"
+          },
+          {
+            "operation": 0,
+            "text": "\r"
+          },
+          {
+            "operation": 2,
+            "text": "\n       "
+          }
+        ],
+        "start1": 1581,
+        "start2": 1581,
+        "length1": 17,
+        "length2": 16
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "text>();"
+          },
+          {
+            "operation": 0,
+            "text": "\r\n\r"
+          },
+          {
+            "operation": 1,
+            "text": "\n\n            services.AddAuthentication()\n                .AddJwtBearer(options =>\r\n                {\r\n                  options.TokenValidationParameters = new TokenValidationParameters\r\n                  {\r\n                    ValidateIssuer = true,\r\n                    ValidateAudience = true,\r\n                    ValidateLifetime = true,\r\n                    ValidateIssuerSigningKey = true,\r\n                    ValidIssuer = Configuration[\"Jwt:Issuer\"],\r\n                    ValidAudience = Configuration[\"Jwt:Issuer\"],\r\n                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration[\"Jwt:Key\"]))\r\n                  };\r\n                });\n"
+          },
+          {
+            "operation": 2,
+            "text": "\n       "
+          }
+        ],
+        "start1": 1648,
+        "start2": 1648,
+        "length1": 19,
+        "length2": 703
+      }
+    ]
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\tsconfig.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\tsconfig.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\tslint.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\tslint.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Views.Shared._AppPartial.cshtml.ejs",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Views.Shared._AppPartial.cshtml.ejs",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\webpack.config.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\webpack.config.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\webpack.netcore.config.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\webpack.netcore.config.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\yarn.lock",
+    "DestinationFile": "\\content\\2\\destination\\Site\\yarn.lock",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\aurelia.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\aurelia.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\environments\\dev.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\environments\\dev.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\environments\\prod.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\environments\\prod.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\environments\\stage.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\environments\\stage.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\attribute.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\attribute.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\attribute.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\attribute.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\binding-behavior.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\binding-behavior.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\binding-behavior.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\binding-behavior.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\component.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\component.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\component.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\component.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\element.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\element.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\element.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\element.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\generator.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\generator.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\generator.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\generator.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\task.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\task.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\task.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\task.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\value-converter.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\value-converter.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\generators\\value-converter.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\generators\\value-converter.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\tasks\\build.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\tasks\\build.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\tasks\\build.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\tasks\\build.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\tasks\\environment.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\tasks\\environment.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\tasks\\run.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\tasks\\run.json",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\aurelia_project\\tasks\\run.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\aurelia_project\\tasks\\run.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Controllers\\AppController.cs",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Controllers\\AppController.cs",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Controllers\\HomeController.cs",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Controllers\\HomeController.cs",
+    "PatchResultType": 1,
+    "PatchList": [
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "ore."
+          },
+          {
+            "operation": 0,
+            "text": "Mvc;\r\nusing Site.Models;\r\n\r\nnamespace Site.Controllers\r\n{\r\n    public class HomeController : Controller\r\n    {\r\n        public IActionResult Index()\r\n        {\r\n            return View();\r\n        }\r\n\r"
+          },
+          {
+            "operation": 1,
+            "text": "Authentication.Cookies;\nusing Microsoft.AspNetCore.Authentication.JwtBearer;\nusing Microsoft.AspNetCore.Authorization;\nusing Microsoft.AspNetCore.Mvc;\r\nusing Site.Models;\r\n\r\nnamespace Site.Controllers\r\n{\n    /// <summary>\n    /// https://auth0.com/blog/securing-asp-dot-net-core-2-applications-with-jwts/\n    /// </summary>\r\n    public class HomeController : Controller\r\n    {\n        const string AuthSchemes = \"Identity.Application, \" + JwtBearerDefaults.AuthenticationScheme;\n\r\n        public IActionResult Index()\r\n        {\r\n            return View();\r\n        }\n\n        //[Authorize(AuthenticationSchemes = AuthSchemes)] //No redirect to login, only 401 unauthorised\n        [Authorize]\n        public IActionResult Privacy()\r\n        {\r\n            return View();\r\n        }\n\n        [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]"
+          },
+          {
+            "operation": 2,
+            "text": "\n   "
+          }
+        ],
+        "start1": 151,
+        "start2": 151,
+        "length1": 209,
+        "length2": 875
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "onResult Privacy"
+          },
+          {
+            "operation": 1,
+            "text": "Api"
+          },
+          {
+            "operation": 2,
+            "text": "()\r\n        {\r\n "
+          }
+        ],
+        "start1": 1043,
+        "start2": 1043,
+        "length1": 32,
+        "length2": 35
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "    return View("
+          },
+          {
+            "operation": 1,
+            "text": "\"Privacy\""
+          },
+          {
+            "operation": 2,
+            "text": ");\r\n        }\r\n\r"
+          }
+        ],
+        "start1": 1085,
+        "start2": 1085,
+        "length1": 32,
+        "length2": 41
+      }
+    ]
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Controllers\\TokenController.cs",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Controllers\\TokenController.cs",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\custom_typings\\fetch.d.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\custom_typings\\fetch.d.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\custom_typings\\system.d.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\custom_typings\\system.d.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Data\\ApplicationDbContext.cs",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Data\\ApplicationDbContext.cs",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Models\\ErrorViewModel.cs",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Models\\ErrorViewModel.cs",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Properties\\launchSettings.json",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Properties\\launchSettings.json",
+    "PatchResultType": 1,
+    "PatchList": [
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": "st:5"
+          },
+          {
+            "operation": 0,
+            "text": "4690"
+          },
+          {
+            "operation": 1,
+            "text": "2826"
+          },
+          {
+            "operation": 2,
+            "text": "\",\r\n"
+          }
+        ],
+        "start1": 158,
+        "start2": 158,
+        "length1": 12,
+        "length2": 12
+      },
+      {
+        "diffs": [
+          {
+            "operation": 2,
+            "text": " 443"
+          },
+          {
+            "operation": 0,
+            "text": "62"
+          },
+          {
+            "operation": 1,
+            "text": "89"
+          },
+          {
+            "operation": 2,
+            "text": "\r\n  "
+          }
+        ],
+        "start1": 186,
+        "start2": 186,
+        "length1": 10,
+        "length2": 10
+      }
+    ]
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\app.html",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\app.html",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\app.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\app.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\app.js.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\app.js.map",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\app.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\app.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\environment.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\environment.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\environment.js.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\environment.js.map",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\environment.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\environment.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\main.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\main.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\main.js.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\main.js.map",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\main.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\main.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\resources\\index.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\resources\\index.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\resources\\index.js.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\resources\\index.js.map",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\resources\\index.ts",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\resources\\index.ts",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\src\\styles\\app.css",
+    "DestinationFile": "\\content\\2\\destination\\Site\\src\\styles\\app.css",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\static\\favicon.ico",
+    "DestinationFile": "\\content\\2\\destination\\Site\\static\\favicon.ico",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Views\\_ViewImports.cshtml",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Views\\_ViewImports.cshtml",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Views\\_ViewStart.cshtml",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Views\\_ViewStart.cshtml",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Views\\App\\Index.cshtml",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Views\\App\\Index.cshtml",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Views\\Home\\Index.cshtml",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Views\\Home\\Index.cshtml",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Views\\Home\\Privacy.cshtml",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Views\\Home\\Privacy.cshtml",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Views\\Shared\\Error.cshtml",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Views\\Shared\\Error.cshtml",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Views\\Shared\\_AppPartial.cshtml",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Views\\Shared\\_AppPartial.cshtml",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Views\\Shared\\_CookieConsentPartial.cshtml",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Views\\Shared\\_CookieConsentPartial.cshtml",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Views\\Shared\\_Layout.cshtml",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Views\\Shared\\_Layout.cshtml",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Views\\Shared\\_LoginPartial.cshtml",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Views\\Shared\\_LoginPartial.cshtml",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+    "DestinationFile": "\\content\\2\\destination\\Site\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\favicon.ico",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\favicon.ico",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\css\\site.css",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\css\\site.css",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\app~d0ae3f07.28822dd5b1bda1154a0f.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\app~d0ae3f07.28822dd5b1bda1154a0f.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\app~d0ae3f07.46d9e11caa3c55bd64c7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\app~d0ae3f07.46d9e11caa3c55bd64c7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\app~d0ae3f07.56ec5641e4e35f7f2dc6.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\app~d0ae3f07.56ec5641e4e35f7f2dc6.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\app~d0ae3f07.74e2787ea992344001ac.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\app~d0ae3f07.74e2787ea992344001ac.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\app~d0ae3f07.a94c7542d96123efd524.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\app~d0ae3f07.a94c7542d96123efd524.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\app~d0ae3f07.b11d75f1ac2e09bf732e.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\app~d0ae3f07.b11d75f1ac2e09bf732e.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\app~d0ae3f07.b87ecb76bd85744032af.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\app~d0ae3f07.b87ecb76bd85744032af.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\app~d0ae3f07.ba2d40ddb5a07191b693.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\app~d0ae3f07.ba2d40ddb5a07191b693.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\app~d0ae3f07.ff7f285dcb3ac4f517f7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\app~d0ae3f07.ff7f285dcb3ac4f517f7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\favicon.ico",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\favicon.ico",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\index.html",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\index.html",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\runtime~app.28822dd5b1bda1154a0f.bundle.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\runtime~app.28822dd5b1bda1154a0f.bundle.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\runtime~app.46d9e11caa3c55bd64c7.bundle.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\runtime~app.46d9e11caa3c55bd64c7.bundle.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\runtime~app.56ec5641e4e35f7f2dc6.bundle.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\runtime~app.56ec5641e4e35f7f2dc6.bundle.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\runtime~app.74e2787ea992344001ac.bundle.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\runtime~app.74e2787ea992344001ac.bundle.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\runtime~app.a94c7542d96123efd524.bundle.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\runtime~app.a94c7542d96123efd524.bundle.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\runtime~app.b11d75f1ac2e09bf732e.bundle.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\runtime~app.b11d75f1ac2e09bf732e.bundle.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\runtime~app.b87ecb76bd85744032af.bundle.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\runtime~app.b87ecb76bd85744032af.bundle.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\runtime~app.ba2d40ddb5a07191b693.bundle.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\runtime~app.ba2d40ddb5a07191b693.bundle.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\runtime~app.ff7f285dcb3ac4f517f7.bundle.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\runtime~app.ff7f285dcb3ac4f517f7.bundle.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~02227409.28822dd5b1bda1154a0f.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~02227409.28822dd5b1bda1154a0f.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~02227409.46d9e11caa3c55bd64c7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~02227409.46d9e11caa3c55bd64c7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~02227409.56ec5641e4e35f7f2dc6.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~02227409.56ec5641e4e35f7f2dc6.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~02227409.74e2787ea992344001ac.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~02227409.74e2787ea992344001ac.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~02227409.a94c7542d96123efd524.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~02227409.a94c7542d96123efd524.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~02227409.b11d75f1ac2e09bf732e.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~02227409.b11d75f1ac2e09bf732e.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~02227409.b87ecb76bd85744032af.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~02227409.b87ecb76bd85744032af.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~02227409.ba2d40ddb5a07191b693.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~02227409.ba2d40ddb5a07191b693.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~02227409.ff7f285dcb3ac4f517f7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~02227409.ff7f285dcb3ac4f517f7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~0ba1d959.28822dd5b1bda1154a0f.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~0ba1d959.28822dd5b1bda1154a0f.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~0ba1d959.46d9e11caa3c55bd64c7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~0ba1d959.46d9e11caa3c55bd64c7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~0ba1d959.56ec5641e4e35f7f2dc6.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~0ba1d959.56ec5641e4e35f7f2dc6.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~0ba1d959.74e2787ea992344001ac.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~0ba1d959.74e2787ea992344001ac.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~0ba1d959.a94c7542d96123efd524.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~0ba1d959.a94c7542d96123efd524.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~0ba1d959.b11d75f1ac2e09bf732e.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~0ba1d959.b11d75f1ac2e09bf732e.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~0ba1d959.b87ecb76bd85744032af.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~0ba1d959.b87ecb76bd85744032af.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~0ba1d959.ba2d40ddb5a07191b693.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~0ba1d959.ba2d40ddb5a07191b693.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~0ba1d959.ff7f285dcb3ac4f517f7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~0ba1d959.ff7f285dcb3ac4f517f7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~50e8d500.28822dd5b1bda1154a0f.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~50e8d500.28822dd5b1bda1154a0f.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~50e8d500.46d9e11caa3c55bd64c7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~50e8d500.46d9e11caa3c55bd64c7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~50e8d500.56ec5641e4e35f7f2dc6.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~50e8d500.56ec5641e4e35f7f2dc6.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~50e8d500.74e2787ea992344001ac.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~50e8d500.74e2787ea992344001ac.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~50e8d500.a94c7542d96123efd524.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~50e8d500.a94c7542d96123efd524.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~50e8d500.b11d75f1ac2e09bf732e.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~50e8d500.b11d75f1ac2e09bf732e.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~50e8d500.b87ecb76bd85744032af.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~50e8d500.b87ecb76bd85744032af.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~50e8d500.ba2d40ddb5a07191b693.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~50e8d500.ba2d40ddb5a07191b693.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~50e8d500.ff7f285dcb3ac4f517f7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~50e8d500.ff7f285dcb3ac4f517f7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~556c66f2.28822dd5b1bda1154a0f.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~556c66f2.28822dd5b1bda1154a0f.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~556c66f2.46d9e11caa3c55bd64c7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~556c66f2.46d9e11caa3c55bd64c7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~556c66f2.56ec5641e4e35f7f2dc6.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~556c66f2.56ec5641e4e35f7f2dc6.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~556c66f2.74e2787ea992344001ac.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~556c66f2.74e2787ea992344001ac.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~556c66f2.a94c7542d96123efd524.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~556c66f2.a94c7542d96123efd524.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~556c66f2.b11d75f1ac2e09bf732e.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~556c66f2.b11d75f1ac2e09bf732e.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~556c66f2.b87ecb76bd85744032af.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~556c66f2.b87ecb76bd85744032af.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~556c66f2.ba2d40ddb5a07191b693.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~556c66f2.ba2d40ddb5a07191b693.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~556c66f2.ff7f285dcb3ac4f517f7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~556c66f2.ff7f285dcb3ac4f517f7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~5ea1390f.28822dd5b1bda1154a0f.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~5ea1390f.28822dd5b1bda1154a0f.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~5ea1390f.46d9e11caa3c55bd64c7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~5ea1390f.46d9e11caa3c55bd64c7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~5ea1390f.56ec5641e4e35f7f2dc6.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~5ea1390f.56ec5641e4e35f7f2dc6.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~5ea1390f.74e2787ea992344001ac.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~5ea1390f.74e2787ea992344001ac.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~5ea1390f.a94c7542d96123efd524.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~5ea1390f.a94c7542d96123efd524.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~5ea1390f.b11d75f1ac2e09bf732e.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~5ea1390f.b11d75f1ac2e09bf732e.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~5ea1390f.b87ecb76bd85744032af.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~5ea1390f.b87ecb76bd85744032af.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~5ea1390f.ba2d40ddb5a07191b693.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~5ea1390f.ba2d40ddb5a07191b693.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~5ea1390f.ff7f285dcb3ac4f517f7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~5ea1390f.ff7f285dcb3ac4f517f7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~7274e1de.28822dd5b1bda1154a0f.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~7274e1de.28822dd5b1bda1154a0f.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~7274e1de.46d9e11caa3c55bd64c7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~7274e1de.46d9e11caa3c55bd64c7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~7274e1de.56ec5641e4e35f7f2dc6.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~7274e1de.56ec5641e4e35f7f2dc6.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~7274e1de.74e2787ea992344001ac.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~7274e1de.74e2787ea992344001ac.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~7274e1de.a94c7542d96123efd524.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~7274e1de.a94c7542d96123efd524.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~7274e1de.b11d75f1ac2e09bf732e.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~7274e1de.b11d75f1ac2e09bf732e.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~7274e1de.b87ecb76bd85744032af.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~7274e1de.b87ecb76bd85744032af.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~7274e1de.ba2d40ddb5a07191b693.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~7274e1de.ba2d40ddb5a07191b693.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~7274e1de.ff7f285dcb3ac4f517f7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~7274e1de.ff7f285dcb3ac4f517f7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~72fdf3f2.28822dd5b1bda1154a0f.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~72fdf3f2.28822dd5b1bda1154a0f.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~72fdf3f2.46d9e11caa3c55bd64c7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~72fdf3f2.46d9e11caa3c55bd64c7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~72fdf3f2.56ec5641e4e35f7f2dc6.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~72fdf3f2.56ec5641e4e35f7f2dc6.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~72fdf3f2.74e2787ea992344001ac.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~72fdf3f2.74e2787ea992344001ac.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~72fdf3f2.a94c7542d96123efd524.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~72fdf3f2.a94c7542d96123efd524.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~72fdf3f2.b11d75f1ac2e09bf732e.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~72fdf3f2.b11d75f1ac2e09bf732e.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~72fdf3f2.b87ecb76bd85744032af.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~72fdf3f2.b87ecb76bd85744032af.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~72fdf3f2.ba2d40ddb5a07191b693.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~72fdf3f2.ba2d40ddb5a07191b693.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~72fdf3f2.ff7f285dcb3ac4f517f7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~72fdf3f2.ff7f285dcb3ac4f517f7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ec8c427e.28822dd5b1bda1154a0f.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ec8c427e.28822dd5b1bda1154a0f.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ec8c427e.46d9e11caa3c55bd64c7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ec8c427e.46d9e11caa3c55bd64c7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ec8c427e.56ec5641e4e35f7f2dc6.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ec8c427e.56ec5641e4e35f7f2dc6.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ec8c427e.74e2787ea992344001ac.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ec8c427e.74e2787ea992344001ac.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ec8c427e.a94c7542d96123efd524.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ec8c427e.a94c7542d96123efd524.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ec8c427e.b11d75f1ac2e09bf732e.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ec8c427e.b11d75f1ac2e09bf732e.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ec8c427e.b87ecb76bd85744032af.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ec8c427e.b87ecb76bd85744032af.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ec8c427e.ba2d40ddb5a07191b693.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ec8c427e.ba2d40ddb5a07191b693.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ec8c427e.ff7f285dcb3ac4f517f7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ec8c427e.ff7f285dcb3ac4f517f7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ecff2e3d.28822dd5b1bda1154a0f.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ecff2e3d.28822dd5b1bda1154a0f.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ecff2e3d.46d9e11caa3c55bd64c7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ecff2e3d.46d9e11caa3c55bd64c7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ecff2e3d.56ec5641e4e35f7f2dc6.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ecff2e3d.56ec5641e4e35f7f2dc6.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ecff2e3d.74e2787ea992344001ac.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ecff2e3d.74e2787ea992344001ac.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ecff2e3d.a94c7542d96123efd524.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ecff2e3d.a94c7542d96123efd524.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ecff2e3d.b11d75f1ac2e09bf732e.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ecff2e3d.b11d75f1ac2e09bf732e.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ecff2e3d.b87ecb76bd85744032af.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ecff2e3d.b87ecb76bd85744032af.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ecff2e3d.ba2d40ddb5a07191b693.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ecff2e3d.ba2d40ddb5a07191b693.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\dist\\vendors~ecff2e3d.ff7f285dcb3ac4f517f7.chunk.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\dist\\vendors~ecff2e3d.ff7f285dcb3ac4f517f7.chunk.js",
+    "PatchResultType": 0,
+    "PatchList": null
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\js\\site.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\js\\site.js",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\LICENSE",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\LICENSE",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\jquery\\LICENSE.txt",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\jquery\\LICENSE.txt",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+    "PatchResultType": 2,
+    "PatchList": []
+  },
+  {
+    "SourceFile": "\\content\\2\\source\\Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+    "DestinationFile": "\\content\\2\\destination\\Site\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+    "PatchResultType": 2,
+    "PatchList": []
+  }
+]
